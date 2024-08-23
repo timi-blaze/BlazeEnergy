@@ -60,6 +60,12 @@ text-align: left;
 #nav-list, .glyphicon{
   font-size: 1.2rem;
 }
+.navbar-header .navbar-brand a{
+  text-decoration: none;
+}
+#main-content .openings a{
+  text-decoration: none;
+}
 @media(max-width:999px) and (min-width:470px) {
 .navbar-brand h1 {
   padding-top: px; 
