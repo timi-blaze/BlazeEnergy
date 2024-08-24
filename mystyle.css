@@ -66,6 +66,11 @@ text-align: left;
 #main-content .openings a{
   text-decoration: none;
 }
+.container .row{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
 @media(max-width:999px) and (min-width:470px) {
 .navbar-brand h1 {
   padding-top: px; 
